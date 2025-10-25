@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me chrispeng515@gmail.com
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I changed my name three times in my life (and I'm only in high school!)
+- ⚡ Fun fact: I changed my name twice in my life
 
 <!---
 Chris-P-Bacon7/Chris-P-Bacon7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
