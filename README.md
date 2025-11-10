@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chris-P-Bacon7
-- 👀 I’m interested in medicine, engineering, classical music, and Taylor Swift!
-- 🌱 I’m currently learning Python fundamentals
+- 👀 I’m interested in biology, engineering, pop and classical music
+- 🌱 I’m currently learning Python, C++, C, HTML, Javascript, and R
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me chrispeng515@gmail.com
 - 😄 Pronouns: He/His/Him
