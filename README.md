@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chris-P-Bacon7
-- 👀 I’m interested in biology, engineering, pop and classical music
+- 👀 I’m interested in machine learning, engineering, computer programming, the life sciences, and psychology
 - 🌱 I’m currently learning Python, C++, C, HTML, Javascript, and R
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me chrispeng515@gmail.com
+- 💞️ I'm looking to collaborate on any beginner-friendly projects
+- 📫 How to reach me chrispeng515@gmail.com or WhatsApp (I don't use social media!)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I have changed my legal name 3 times in my life.
 
