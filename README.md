@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chris-P-Bacon7.
-- 👀 I’m interested in machine learning, engineering, computer programming, the life sciences, and psychology.
+- 👀 I’m interested in computer vision, machine learning, and biomedical engineering.
 - 🌱 I’m currently learning Python, C, C++, MATLAB, and R. 
 - 💞️ I'm looking to collaborate on computer vision projects.
 - 📫 How to reach me: chrispeng515@gmail.com or WhatsApp.
