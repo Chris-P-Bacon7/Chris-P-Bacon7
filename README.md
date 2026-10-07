@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Chris-P-Bacon7.
-- 👀 I’m interested in computer vision, machine learning, and biomedical engineering.
-- 🌱 I’m currently learning Python, C, C++, MATLAB, and R. 
-- 💞️ I'm looking to collaborate on computer vision projects.
-- 📫 How to reach me: chrispeng515@gmail.com or WhatsApp.
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I have changed my legal name 3 times in my life.
+# Hi, I'm Chris
 
-<!---
-Chris-P-Bacon7/Chris-P-Bacon7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+## Why classical computer vision
+
+I loveeeee computer vision, especially classical computer vision in an era where the field is dominated by machine learning and artificial intelligence.
+
+The reason behind it is simple: I like being able to derive how a method works.
+
+Classical algorithms link back to mathematics, and you can derive and conceptualize them. For example, depth from a rectified stereo pair follows from similar triangles:
+
+> **Z = f · B / d**
+>
+> where *Z* is depth, *f* is focal length (in pixels), *B* is the baseline and *d* is disparity.
+
+From this you can also predict how the error grows with distance:
+
+> **δZ ≈ (Z² / (f · B)) · δd**
+
+Machine learning is harder to reason about this way. The training procedure (backpropagation, optimization) is mathematics, but the learned function itself can't be written down or derived, so its inner workings and failure cases are harder to know in advance.
+
+## Where ML fits
+
+Regardless, I'm still interested in ML and in where it can perform better than classical methods in CV.
