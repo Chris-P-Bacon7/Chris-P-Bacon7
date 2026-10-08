@@ -1,6 +1,12 @@
 # Hi, I'm Chris 💻👀🖥️👀
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I'm a second-year ECE (Electrical and Computer Engineering) student at the University of Toronto, and I am more focused on the computer engineering side of things. Some fun facts about me:
+- I love music, and I play the piano and the violin. If you ever decide to tune in, you can catch me playing some Pop/Rock tunes or classical pieces from famous composers like Liszt, Chopin, or Beethoven (I'm a Romantic-era kinda pianist 🎹)
+- On the more active side, my favourite sport is swimming, and I also like playing volleyball and badminton. My goal for Summer 2027 is to complete a full triathlon! I'm also on my school's dragon boat team (Iron Dragons)
+- A hot dog is **not** a sandwich (I'm open to debate, but I will never agree to otherwise :P 🌭≠🥪)
+
+
+Ok. Enough about me. Onto more technical and professional kind of things. 🫡
 
 ## Why classical computer vision
 
